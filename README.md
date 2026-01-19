@@ -9,9 +9,7 @@ Recuerda: este repo debe llamarse exactamente igual a tu username.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank">LinkedIn</a> •
-  <a href="mailto:TU_EMAIL">Email</a> •
-  <a href="https://TU_PORTAFOLIO.com" target="_blank">Portfolio</a>
+  <a href="mailto:eduardojesus@delahoz.co">Email</a> •
 </p>
 
 ---
