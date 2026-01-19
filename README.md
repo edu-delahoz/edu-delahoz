@@ -9,7 +9,7 @@ Recuerda: este repo debe llamarse exactamente igual a tu username.
 </p>
 
 <p align="center">
-  <a href="mailto:eduardojesus@delahoz.co">Email</a> •
+  <a href="mailto:eduardojesus@delahoz.co">Email</a>
 </p>
 
 ---
@@ -20,6 +20,7 @@ Recuerda: este repo debe llamarse exactamente igual a tu username.
 - 🧠 I build products with a strong focus on **security**, **performance**, and **clean architecture**
 - 🧪 I like shipping with tests: **unit + integration**, and keeping commits **small & meaningful**
 - 🛠️ Comfortable working with **Scrum/Kanban** workflows
+- 🤖 I build **AI-powered features** (LLM integrations), including **RAG** patterns for retrieval + generation
 
 ---
 
@@ -30,24 +31,33 @@ Recuerda: este repo debe llamarse exactamente igual a tu username.
 **Backend**
 - Node.js, Express, REST APIs
 - **Python**, FastAPI
+- **Java** (fundamentals + backend basics)
 
 **Data**
 - PostgreSQL / MySQL
 - Redis
 
+**Cloud & DevOps**
+- **AWS (basics)** — deployments, core services familiarity
+- **Docker** — containerizing apps for local dev + deploy
+- Git, CI/CD basics
+
 **Auth & Security**
 - JWT (access/refresh), blacklist, token versioning
 - NextAuth (Credentials + Google)
 
-**Testing & Tooling**
+**Testing**
 - Vitest, Supertest
-- Git, CI/CD basics
+
+**AI in Applications**
+- LLM-ready orchestration for decision systems (trading agents)
+- RAG fundamentals: embeddings, vector search, retrieval pipelines
 
 ---
 
 ## Featured Projects (highlights)
 - **Alpha MT5 Arena** — Python + FastAPI  
-  MT5 EA → REST backend → (LLM-ready) decision orchestration + backtesting scaffolding.
+  MT5 EA → REST backend → AI-assisted decision orchestration (LLM-ready) + backtesting scaffolding.
 - **Teacher Console / Educational CMS** — Next.js 15 + Prisma + Supabase  
   Modular educational content, authentication, progress tracking, AI copilots (roadmap).
 - **Digital Signature SaaS (MVP)** — PDF signing flow  
@@ -60,7 +70,8 @@ Recuerda: este repo debe llamarse exactamente igual a tu username.
 ## What I’m working on
 - 🧱 Clean Architecture / Hexagonal design in real products
 - 🔐 Authentication flows + secure APIs
-- 📈 Trading automation & backtesting pipelines
+- 📈 Trading automation & backtesting pipelines (AI-assisted decisions)
+- 🧠 RAG & LLM features for real applications
 - ✍️ PDF workflows: signing, audit logs, file versioning
 
 ---
