@@ -67,12 +67,11 @@ Recuerda: este repo debe llamarse exactamente igual a tu username.
 
 ## GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=edu-delahoz&show_icons=true&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-delahoz&layout=compact" />
 </p>
 
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/TU_LINKEDIN/
-- Email: TU_EMAIL
+- Email: eduardojesus@delahoz.co
